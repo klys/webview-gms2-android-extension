@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1d2b2a10.chunk.css",
+    "main.js": "./static/js/main.f99548d6.chunk.js",
+    "main.js.map": "./static/js/main.f99548d6.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.198b81ee.chunk.js": "./static/js/2.198b81ee.chunk.js",
+    "static/js/2.198b81ee.chunk.js.map": "./static/js/2.198b81ee.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.886963b54cadb548966571a975b7c43d.js": "./precache-manifest.886963b54cadb548966571a975b7c43d.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1d2b2a10.chunk.css.map": "./static/css/main.1d2b2a10.chunk.css.map",
+    "static/media/choosing_champion0.gif": "./static/media/choosing_champion0.c54f8a27.gif",
+    "static/media/bootstrap.min.css": "./static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/profile.png": "./static/media/profile.855af7b4.png"
+  }
+}
